@@ -1,2 +1,6 @@
-New Teckst Dott Tea Exx Tea
+<<<<<<< HEAD
 
+
+=======
+New text dot tee ecks tee
+>>>>>>> dev
